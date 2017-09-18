@@ -406,8 +406,7 @@ Ilhwa Stainless 의 파이프 생성 공정 라인에서 쓰이는 프로그램�
 2003 년에 만들어진 고전 RTS 게임인 Total Annihilation 의 개인 제작 비공식 미션팩이다.  
 ARM 및 CORE 각각 약 10여가지의 미션이 추가 되었다.
 
-바로가기
-[](https://github.com/thesoncriel/take2)
+바로가기 https://github.com/thesoncriel/take2
 
 
 
@@ -415,7 +414,6 @@ ARM 및 CORE 각각 약 10여가지의 미션이 추가 되었다.
 고2 학창시절, 한창 CSS를 학습하고 즐기던 시절에 이보넷 장대표님이 계정을 주어 만들게 된 사이트.  
 당시 URL: css.eduhtml.com
 
-인터넷 아카이브 바로가기
-[](https://web.archive.org/web/20050315084837/http://css.eduhtml.com:80/)
+인터넷 아카이브 바로가기 https://web.archive.org/web/20050315084837/http://css.eduhtml.com:80/
 
 ※ 주의: 옛 익스5.5 기준으로 만들어져서 글자가 다수 깨질 수 있음.
