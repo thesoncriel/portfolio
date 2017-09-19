@@ -267,7 +267,7 @@ Ilhwa Stainless 의 파이프 생성 공정 라인에서 쓰이는 프로그램�
 2010년 경남 e-biz 출품작 (장려상)
 
 ### 사용기술
-* Android 1.5
+* Android 2.2 Froyo
 * Java 6
 * SQLite
 * zxing (지브라 크로싱) 을 통한 바코드 인식기 적용
