@@ -5,7 +5,7 @@
 이미 지키고 있던 다른 규칙이 정리 되거나 새로운 좋은 규칙을 발견하면 이 곳에 정리 해 둔다.  
 [코딩가이드](https://github.com/thesoncriel/coding-guide)
 
-## [2017] 뉴키 - Comic Viewer Renewal
+## [[2017] 뉴키 - Comic Viewer Renewal](https://github.com/thesoncriel/php.mvc/tree/master/ui-etype)
 (주) 제이웨이의 ActiveX 뷰어를 웹표준으로 변경 시킨 것.  
 웹표준 모드와 플래시 모드를 자체적으로 갖추어 최신 브라우저부터 구형 브라우저까지 폭넓게 지원한다.  
 웹런처와 통합되어 있다.
@@ -23,7 +23,7 @@
 ![](https://github.com/thesoncriel/php.mvc/blob/master/screenshots/comicviewer.png)
 
 
-## [2016] VODS - Web Launcher UI
+## [[2016] VODS - Web Launcher UI](https://github.com/thesoncriel/php.mvc/tree/master/ui-etype)
 (주) 제이웨이의 웹UI를 SPA 방식으로 새로 만들어 최적화 시킨 것.  
 기본적으론 외부 C++ Windows Application과 통신하여 동영상 플레이어를 제어 한다.  
 유지보수와 속도를 위해 모듈화와 Promise 패턴을 적용 시키고 Grunt 를 통해 빌드하고 압축(minify) 하는 일련의 작업을 할 수 있도록 구성 하였다.  
@@ -52,7 +52,7 @@
 ![](https://github.com/thesoncriel/php.mvc/blob/master/screenshots/005.png)
 
 
-## [2016] MNG - VODS 관리자 사이트
+## [[2016] MNG - VODS 관리자 사이트](https://github.com/thesoncriel/php.mvc/tree/master/mng)
 (주) 제이웨이의 VODS UI 서버 관리를 위한 것.  
 원래 여러기의 서버가 운영되며 각기 별도의 DB와 웹소스를 지녀서 관리가 불편했던 점을 개선하기 위해 만들어졌다.  
 등록된 가맹점 검색과 옵션 설정, 캐시관리 등의 기능이 포함되어 있다.
@@ -70,7 +70,7 @@
 ![](https://github.com/thesoncriel/php.mvc/blob/master/screenshots/014.png)
 
 
-## [2016] ONS - Mobile
+## [[2016] ONS - Mobile](https://github.com/thesoncriel/java.mvc/tree/master/mb/spa)
 (주) 제이웨이의 지사 업무용 모바일 사이트다.  
 자체 MVC 라이브러리를 만들어 필요에 따라 사용하였으며 AngularJS를 통한 SPA로 구동되게끔 하였다.
 
@@ -87,7 +87,7 @@
 ![](https://github.com/thesoncriel/java.mvc/blob/master/screenshots/007.png)
 
 
-## [2015] ITM - Mobile
+## [[2015] ITM - Mobile](https://github.com/thesoncriel/itm.mobile)
 캐럿글로벌에서 B2B 업무에 이용되는 ITM 솔루션을 모바일 버전으로 SPA 방식으로 리뉴얼 작업 한 것.  
 전체적인 업무는 크게 강사(Tutor)와 학생(Member)로 나뉘며 이 둘은 클래스 목록, 상세 및 그에 따른 세부 정보와 출결 정보를 보여줄 수 있도록 하였으며, 클래스 커뮤니티(Class Community)라 불리는 일종의 게시판을 클래스마다 별도로 운영하기에 이에 대한 링크 및 부가 기능이 담겨 있다.
 
@@ -103,7 +103,7 @@
 ![](https://github.com/thesoncriel/itm.mobile/blob/master/screenshots/003.png)
 
 
-## [2015] IELTS
+## [[2015] IELTS](https://github.com/thesoncriel/ielts-ci)
 캐럿글로벌에서 제작했으며, 아이엘츠라 불리는 영어 시험을 간단하게 수행하고 그 결과를 출력해 주는 사이트.  
 이전에 만들다 만 것을 이어서 작업하라는 요청이었지만, 도저히 이어할 수 있는 수준의 퀄리티가 아니라서 아예 CI 및 Bootstrap 기반으로 다시 만들었다.
 
@@ -119,7 +119,7 @@
 ![](https://github.com/thesoncriel/ielts-ci/blob/master/screenshots/002.png)
 
 
-## [2014] 시대고시 모바일 사이트
+## [[2014] 시대고시 모바일 사이트](https://github.com/thesoncriel/sdmobile/tree/master/src)
 Frontend Framework 인 KnockoutJS를 접목 시켜 보았다.  
 더불어 Client 측 RESTful 환경을 구축하고 requireJS를 통하여 JS 모듈화를 본격적으로 적용시켰으며 SASS를 함께 활용하는 등 Frontend 개발자로서의 역량이 본격적으로 시작된 의미있는 프로젝트 였다.
 
@@ -139,7 +139,7 @@ Frontend Framework 인 KnockoutJS를 접목 시켜 보았다.
 ![](https://github.com/thesoncriel/sdmobile/blob/master/screenshots/005.png)
 
 
-## [2014] 강의출결평가
+## [[2014] 강의출결평가](https://github.com/thesoncriel/hanlecture/tree/master/WebContent)
 한양대학교 재활의학과 의뢰로 제작 되었으며, 회원/강의 관리 기능과 원격 강의 출석/평가 및 그 데이터를 이용한 통계를 출력 해 주는 기능을 포함하고 있다.  
 교수측이 출석을 진행 하기 전엔 학생측에선 출석이 불가하며, 평가되는 질문 내용을 설문지처럼 임의 설정이 가능하도록 하였다.  
 사내 프레임워크 2.0을 기반으로 제작.
@@ -155,7 +155,7 @@ Frontend Framework 인 KnockoutJS를 접목 시켜 보았다.
 ![](https://github.com/thesoncriel/hanlecture/blob/master/screenshots/003.png)
 
 
-## [2013] POB Mall
+## [[2013] POB Mall](https://github.com/thesoncriel/pobmall/tree/master/WebContent)
 모바일 스피커 케이스인 POB 의 쇼핑몰 사이트다.  
 사내 프레임워크 2.0을 기반으로 제작 되었으며 media-query를 이용하여 모바일 및 태블릿 기기에도 잘 보일 수 있도록 하였다.
 
@@ -172,7 +172,7 @@ Frontend Framework 인 KnockoutJS를 접목 시켜 보았다.
 ![](https://github.com/thesoncriel/pobmall/blob/master/screenshots/003.png)
 
 
-## [2013] 힐링업 365 (K-Wellness)
+## [[2013] 힐링업 365 (K-Wellness)](https://github.com/thesoncriel/heal365/tree/master/WebContent)
 (주)네안플러스의 운동영상 스트레칭 기획을 바탕으로 제작된 헬스케어 솔루션 이다.  
 의료기관, 회원, 영상 및 조합영상 관리 기능이 있으며, 이를 바탕으로 운동 처방전을 내려 환자가 영상을 따라하며 자가 진단/치료를 할 수 있도록 도와준다.  
 사내 자체 프레임워크를 만들어 적용 하였다.
@@ -193,7 +193,7 @@ Frontend Framework 인 KnockoutJS를 접목 시켜 보았다.
 ![](https://github.com/thesoncriel/heal365/blob/master/screenshots/004.png)
 
 
-## [2012] 국시원 영문 홈페이지
+## [[2012] 국시원 영문 홈페이지](https://github.com/thesoncriel/kuksiwon)
 국시원에서 웹표준 및 웹접근성을 준수하는 영문 홈페이지 제작 의뢰를 받아 만들게 된 것.  
 
 ### 사용기술
@@ -207,7 +207,7 @@ Frontend Framework 인 KnockoutJS를 접목 시켜 보았다.
 ![](https://github.com/thesoncriel/kuksiwon/blob/master/screenshots/002.png)
 
 
-## [2012] 동반성장위원회 홈페이지
+## [[2012] 동반성장위원회 홈페이지](https://github.com/thesoncriel/winwin)
 메인 페이지를 리뉴얼하고 각종 컨텐츠 페이지를 정리하는 작업을 하였다.  
 
 ### 사용기술
@@ -220,7 +220,7 @@ Frontend Framework 인 KnockoutJS를 접목 시켜 보았다.
 ![](https://github.com/thesoncriel/winwin/blob/master/screenshots/002.png)
 
 
-## [2012] Ilhwa TM - 파이프 생성 라인 관리기
+## [[2012] Ilhwa TM - 파이프 생성 라인 관리기](https://github.com/thesoncriel/ilhwa.tm/tree/master/Ilhwa_TM_Renewal)
 Ilhwa Stainless 의 파이프 생성 공정 라인에서 쓰이는 프로그램을 새로 만든 것.  
 이전 버전의 SW는 한 곳(View) 에서 다수의 테이블 내용을 끌어다 썼기 때문에 느린건 둘째치고 코드가 상당히 복잡 했다.  
 그래서 자체적으로 MVC 및 SQL Mapper를 만들어서 적용하고 이것으로도 넘치는 추가 요청사항이 많아서 중간에 엑셀(xls) 파일에 Model 측 설정 기능을 넣어 엄청나게 추상화를 시켰었다.
@@ -238,7 +238,7 @@ Ilhwa Stainless 의 파이프 생성 공정 라인에서 쓰이는 프로그램�
 ![](https://github.com/thesoncriel/ilhwa.tm/blob/master/screenshots/002.png)
 
 
-## [2012] Insight Viewer Renewal
+## [[2012] Insight Viewer Renewal](https://github.com/thesoncriel/insight-viewer/tree/master/source)
 기존 장비의 MS-SQL 자료와 신규 장비의 Firebird 자료를 동시에 처리하여 타 부서에서 활용할 수 있는 엑셀 자료료 출력 해 주는 프로그램.  
 당시 운영 장비가 2가지가 되어 두 자료를 비교 분석할 수 있는 새로운 프로그램이 필요하게 되어 제작하게 됨.
 
@@ -253,7 +253,7 @@ Ilhwa Stainless 의 파이프 생성 공정 라인에서 쓰이는 프로그램�
 ![](https://github.com/thesoncriel/insight-viewer/blob/master/screenshots/002.jpg)
 
 
-## [2011] Shutter Test
+## [[2011] Shutter Test](https://github.com/thesoncriel/shutter-test/tree/master/source)
 셔터 테스트 프로그램.  
 도가니의 View Port 를 자동으로 여닫으며 설치된 카메라를 통해 출력되는 외부 프로그램과 함께 스크린샷을 남긴다.  
 셔터 설정등은 지정된 Recipe 를 통해 변경 가능.
@@ -265,7 +265,7 @@ Ilhwa Stainless 의 파이프 생성 공정 라인에서 쓰이는 프로그램�
 ![](https://github.com/thesoncriel/shutter-test/blob/master/screenshots/001.jpg)
 
 
-## [2010] Eyeroid
+## [[2010] Eyeroid](https://github.com/thesoncriel/eyeroid/tree/master/src/src/deneb/eyeroid)
 카센터 물품 및 고객관리용 안드로이드 모바일 어플리케이션.  
 각 상품별로 기재된 바코드를 통해 상품을 등록하고  
 그 상품을 통한 매출, 입고 관리등을 할 수 있다.  
@@ -284,7 +284,7 @@ Ilhwa Stainless 의 파이프 생성 공정 라인에서 쓰이는 프로그램�
 ![](https://github.com/thesoncriel/eyeroid/blob/master/screenshots/004.png)
 
 
-## [2010] 웹메로스
+## [[2010] 웹메로스](https://github.com/thesoncriel/java.web.meros)
 남해대학 당시 수업 과제로 진행된 프로젝트.  
 지난번 만든 Swing 메로스의 웹버전 이다.
 웹으로 만들었고 엑셀 출력이 추가된 점을 제외 하면 시스템의 구성은 거의 유사 하다.  
@@ -303,7 +303,7 @@ Ilhwa Stainless 의 파이프 생성 공정 라인에서 쓰이는 프로그램�
 
 
 
-## [2010] 메로스
+## [[2010] 메로스](https://github.com/thesoncriel/java.swing.meros/tree/master/src/src)
 남해대 학생시절, 동기들과 팀을 꾸려서 수업 과제로 경마 관리 프로그램을 만들게 되었다.  
 내용은 전형적인 CRUD System 이고, 당시 요청 사항이었던 Java Swing을 통한 Window Application으로 제작 하게 되었다.  
 데이터 저장 시 RDBMS 대신 Vector를 Serialization (직렬화) 하여 사용하고, 불러올 땐 그 역순으로 이용 하였다.
@@ -319,7 +319,7 @@ Ilhwa Stainless 의 파이프 생성 공정 라인에서 쓰이는 프로그램�
 
 
 
-## [2009] 식당경영관리
+## [[2009] 식당경영관리](https://github.com/thesoncriel/aspnet.restaurant)
 2009년 가을, 교내 경시대회 및 경남 e-biz 출품 용(결과: 장려상) 으로 제작되어진 프로젝트.  
 식당 내 특정 테이블 번호에 손님이 이용하면 주문 내역과 계산 결과를 보여주고  
 이용한 상품을 기준으로 매출 현황과 재고 현황을 파악할 수 있게 해 준다.  
@@ -335,7 +335,7 @@ Ilhwa Stainless 의 파이프 생성 공정 라인에서 쓰이는 프로그램�
 
 
 
-## [2009] 오호라! 퍼즐
+## [[2009] 오호라! 퍼즐](https://github.com/thesoncriel/dotnet.puzzle)
 2009년 여름, 남해대학 교내 연구생 시절, 연구실 프로젝트로 만든 프로그램이다.
 
 ### 특징
@@ -353,7 +353,7 @@ Ilhwa Stainless 의 파이프 생성 공정 라인에서 쓰이는 프로그램�
 
 
 
-## [2009] 개인 홈페이지
+## [[2009] 개인 홈페이지](https://github.com/thesoncriel/persnal.home)
 2009년 남해대학 시절, 과제물로 개인 홈페이지를 만들어 낸 것.  
 당시엔 아직 서버 사이드 언어를 모를 때라 방명록 기능은 JavaScript DOM 을 이용하여 임시로 보여 주었다.  
 2001년 고2 때 만들었던 CSS 사이트의 정신(?)을 이어받아 이미지 없이 텍스트로만 구현해 보았다.  
@@ -391,7 +391,7 @@ Ilhwa Stainless 의 파이프 생성 공정 라인에서 쓰이는 프로그램�
 ![](https://github.com/thesoncriel/d2mod/blob/master/screenshots/d2mod_scr005.jpg)
 
 
-## [2007] 설문조사 프로그램
+## [[2007] 설문조사 프로그램](https://github.com/thesoncriel/vb.survey)
 2007년도 국립경상대학교 학생시절, 프로그래밍 수업의 과제물로써 VisualBase(6.0)으로 만든 프로그램 이다.  
 당시엔 RDBMS 이용 방법을 몰랐기에 Text를 이용하여 DB를 모방, 사용 하였다.
 
