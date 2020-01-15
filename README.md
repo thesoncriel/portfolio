@@ -1,10 +1,5 @@
 # Portfolio
 
-## 개인 코딩 가이드
-개발시 지키고 있는 코딩 가이드.
-이미 지키고 있던 다른 규칙이 정리 되거나 새로운 좋은 규칙을 발견하면 이 곳에 정리 해 둔다.
-[코딩가이드](https://github.com/thesoncriel/coding-guide)
-
 ## 똑닥 대기현황판
 비브로스 똑닥의 높은 트래픽에 기여한 프로젝트다.
 단일 화면이지만 사용 패턴이 매우 다양했던 관계로 백엔드에서 줄 수 있는 데이터 시나리오를 수십가지로 구성하여 테스트 해볼 수 있는 테스트 페이지를 함께 만들었으며
@@ -13,10 +8,8 @@
 3자리 숫자가 smooth 하게 돌아가는 SlotNumber 컴포넌트를 직접 만들어서 적용 하였다.
 
 ### 사용기술
-- Next.js
+- Next (SSR이 필요하여 사용)
 - MobX
-- Redux
-  - redux-thunk
 - styled-components
 - TypeScript
 - gulp (AWS EB 배포용)
@@ -61,6 +54,79 @@
 ![](images/infant-preview.png)
 
 
+## 똑닥웹앱
+비브로스의 똑닥을 홍보하고 건강정보를 제공하기 위한 사이트 이다.
+
+반응형으로 제작되어 모바일, 태블릿에 각각 최적화된 화면을 보여줄 수 있으며
+메인 컨텐츠의 경우, 스크롤에 따른 애니메이션을 보여주도록 제작 하였다.
+
+### 사용기술
+- Next (SSR이 필요하여 사용)
+- Redux
+  - redux-thunk
+- styled-components
+- react-slick (슬라이드 컨텐츠용)
+- react-waypoint
+  - 사용자 스크롤에 따라 viewport 안에 컴포넌트가 보여짐 여부로 애니메이션 효과를 주기 위해 사용.
+- react-lazyload
+  - 여러개의 이미지 출력 시 실제 보여줄 때만 불러오는 lazyload 를 이용 하기위해 사용.
+- react-markdown
+  - 이용약관 같은 텍스트 위주 컨텐츠를 markdown 으로 관리하고 그것을 일반 웹페이지로 보여주기 위해 사용.
+- lodash
+  - throttle, debounce 사용을 위해 포함.
+- TypeScript
+- gulp (AWS EB 배포용)
+  - spritesmith (css bg sprite 제작용)
+  - docker
+
+
+## 똑닥세일즈
+비브로스와 협력관계인 EMR 업체에서 그 업체가 EMR 서비스하는 병원이 똑닥을 얼마나 잘 쓰는지를 확인하기 위한 도구 이다.
+
+각 EMR 및 대리점별로 예약, 접수, 대기현황판의 사용률 확인과 더불어
+영업자들이 키오스크 계약서를 작성하고 관리할 수 있도록 별도 도구를 제공한다.
+
+### 사용기술
+- React
+- Redux
+  - redux-thunk
+- styled-components
+- material-ui
+- lodash
+  - throttle, debounce 사용을 위해 포함.
+- TypeScript
+- gulp (AWS S3 배포용)
+
+
+## 똑닥 병원어드민
+똑닥을 서비스하는 병원에서 똑닥의 각종 설정들을 제어할 수 있는 도구를 제공하는 사이트 이다.
+
+병원의 진료시간과 진료실 설정, 접수/예약 및 무인접수 관련 설정을 다루며
+예약시간을 각 진료실과 진료과목에 맞추어 입맛대로 커스터마이징 할 수 있는 예약스케줄러가 포함되어 있다.
+
+한편, 병원어드민의 메인 소개 페이지에서 쓰일 Slider 가 필요 했는데,
+작성 당시(2018~19년) jquery 없이 angular 만으로 동작되는 슬라이더 라이브러리가 없어서 자체 제작하여 사용 하였다.
+
+본 서비스 이용 시 기본적으로 각 병원의 EMR 차트 프로그램 (예: 의사랑)으로 호출하여 이용하게 된다.
+
+### 사용기술
+- Angular 8
+  - rxjs 6
+- ngRx
+- ngBootstrap
+- SASS
+- TypeScript
+- gulp (AWS S3 배포용)
+  - spritesmith (css bg sprite 제작용)
+
+
+## 개인 코딩 가이드
+개발시 지키고 있는 코딩 가이드.
+이미 지키고 있던 다른 규칙이 정리 되거나 새로운 좋은 규칙을 발견하면 이 곳에 정리 해 둔다.
+[코딩가이드](https://github.com/thesoncriel/coding-guide)
+
 ## 기타 과거 프로젝트 이력
-- [이전 직장 프로젝트](legacy.md)
-- [학생시절 프로젝트](student.md)
+* [이전 직장 프로젝트](legacy.md)
+  - 2010 ~ 2017년 까지, 각 회사별로 참여했던 프로젝트를 정리 해 놓았다.
+* [학생시절 프로젝트](student.md)
+  - 2001 ~ 2010년 까지, 취미로 만든 토이 프로젝트나 교내 과제 프로젝트들을 볼 수 있다.
