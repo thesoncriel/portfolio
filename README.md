@@ -131,7 +131,17 @@
 ![](images/ha-005.png)
 ![](images/ha-login.png)
 
-### 예약스케줄러
+### 사용기술
+- Angular 8
+  - rxjs 6
+- ngRx
+- ngBootstrap
+- SASS
+- TypeScript
+- gulp (AWS S3 배포용)
+  - spritesmith (css bg sprite 제작용)
+
+## 병원어드민: 예약스케줄러
 병원 어드민에 포함된 기능으로서 예약시간을 각 진료실과 진료과목에 맞추어 입맛대로 커스터마이징 할 수 있다.
 
 특정 연월을 선택하여 원하는 주간에서 미리 지정한 예약시간 범위내에서 드래그 하거나 클릭하여 스케줄을 채워나갈 수 있다.
@@ -163,16 +173,6 @@
 일/주 복사
 
 ![](images/ha-rt-005.png)
-
-### 사용기술
-- Angular 8
-  - rxjs 6
-- ngRx
-- ngBootstrap
-- SASS
-- TypeScript
-- gulp (AWS S3 배포용)
-  - spritesmith (css bg sprite 제작용)
 
 
 ## 개인 코딩 가이드
