@@ -1,5 +1,31 @@
 # Portfolio
 
+## 작성자 소개
+* 직업: 웹 프론트엔드 엔지니어
+* 경력: 2010 ~ 현재 (10년차)
+* 현 근무지: 비브로스 (3년차)
+* 주력 기술
+  - ES6, TypeScript
+  - React, Redux, Next
+  - Angular, RxJs, ngRx
+  - SASS, styled-components
+  - gulp
+* 보조 기술
+  - vue, vuex
+  - node.js
+  - docker
+  - AWS EB/S3
+* 과거 기술 경험
+  - angular.js, knockout.js
+  - java, spring, struts, mybatis
+  - C#.NET, WebForm, WinForm
+  - Delphi, VisualBasic, VBA
+  - PHP, CodeIgniter
+  - MS-SQL, Oracle10G, MySQL, SQLite
+  - Flex
+  - Linux CentOS
+
+
 ## 똑닥 대기현황판
 비브로스 똑닥의 높은 트래픽에 기여한 프로젝트다.
 단일 화면이지만 사용 패턴이 매우 다양했던 관계로 백엔드에서 줄 수 있는 데이터 시나리오를 수십가지로 구성하여 테스트 해볼 수 있는 테스트 페이지를 함께 만들었으며
