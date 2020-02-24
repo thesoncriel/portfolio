@@ -40,6 +40,8 @@
 
 [똑닥 홈페이지 바로가기](https://www.ddocdoc.com)
 
+[repository 바로가기](https://github.com/thesoncriel/dd-webapp)
+
 ### 사용기술
 
 - Next (SSR이 필요하여 사용)
