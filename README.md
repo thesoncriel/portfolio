@@ -2,9 +2,9 @@
 
 ## 작성자 소개
 
-- 직업: 웹 프론트엔드 엔지니어
+- 직업: Web Frontend Developer
 - 경력: 2010 ~ 현재 (10년차)
-- 현 근무지: 비브로스 (3년차)
+- 현 근무지: StyleShare
 - 주력 기술
   - ES6, TypeScript
   - React, Redux, Next
@@ -28,7 +28,7 @@
   - Flex
   - Linux CentOS
 
-## [똑닥웹앱](https://github.com/thesoncriel/dd-webapp)
+## 똑닥웹앱
 
 비브로스의 똑닥을 홍보하고 건강정보를 제공하기 위한 사이트 이다.
 
@@ -39,8 +39,6 @@
 그리고 각 컴포넌트의 역할 분리 및 재사용성을 위해 [Atomic Design](https://brunch.co.kr/@ultra0034/63) 구조로 작성 하였다.
 
 [똑닥 홈페이지 바로가기](https://www.ddocdoc.com)
-
-[repository 바로가기](https://github.com/thesoncriel/dd-webapp)
 
 ### 사용기술
 
