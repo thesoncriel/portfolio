@@ -28,7 +28,7 @@
   - Flex
   - Linux CentOS
 
-## 똑닥웹앱
+## [똑닥웹앱](https://github.com/thesoncriel/dd-webapp)
 
 비브로스의 똑닥을 홍보하고 건강정보를 제공하기 위한 사이트 이다.
 
