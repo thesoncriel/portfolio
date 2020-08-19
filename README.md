@@ -114,7 +114,6 @@
 - vue
 - vuex
 - sass
-- rxjs
 - gulp (AWS S3 배포용)
   - spritesmith (css bg sprite 제작용)
 
