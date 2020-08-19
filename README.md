@@ -27,6 +27,19 @@
   - MS-SQL, Oracle10G, MySQL, SQLite
   - Flex
   - Linux CentOS
+  
+### 사내 개발 가이드 문서
+
+현 직장의 웹프론트엔드 개발 규칙을 만들기위해 제안된 문서이다.
+
+- [아키텍처 개발 가이드](https://github.com/thesoncriel/coding-guide/tree/master/architecture)
+- [UI 설계 가이드](https://github.com/thesoncriel/coding-guide/tree/master/sw-design)
+  
+### 사내 개발 블로그내 작성했던 글 모음
+
+현 직장의 다른 개발자분들과 개발 관련 이야기를 많이 해 보고자 작성 했던 글이다.
+
+- [바로가기](https://github.com/thesoncriel/todays-tip)
 
 ## [똑닥웹앱 - Click to sample source](https://github.com/thesoncriel/dd-webapp)
 
