@@ -27,7 +27,14 @@
   - MS-SQL, Oracle10G, MySQL, SQLite
   - Flex
   - Linux CentOS
-  
+
+### 사내 업무용 라이브러리
+
+현 직장에서 쓰이는 자체 제작 기능 중 라이브러리화 된 것들.
+
+- [Context Kit](https://github.com/thesoncriel/context-kit)
+  - React 내 Context 를 쉽게 쓸 수 있도록 만들어주는 라이브러리
+
 ### 사내 개발 가이드 문서
 
 현 직장의 웹프론트엔드 개발 규칙을 만들기위해 제안된 문서이다.
