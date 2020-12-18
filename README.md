@@ -49,7 +49,7 @@
 
 - [바로가기](https://github.com/thesoncriel/todays-tip)
 
-## [똑닥웹앱 - Click to sample source](https://github.com/thesoncriel/dd-webapp)
+## 똑닥웹앱
 
 비브로스의 똑닥을 홍보하고 건강정보를 제공하기 위한 사이트 이다.
 
