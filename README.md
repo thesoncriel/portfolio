@@ -4,8 +4,6 @@
 
 - 직업: Web Frontend Developer
 - 경력: 2010 ~ 현재 (10년차)
-- 현 근무지: StyleShare
-  - [업무용 깃헙](https://github.com/Son-Junhyeon)
 - 주력 기술
   - ES6, TypeScript
   - React, Redux, Next
