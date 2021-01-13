@@ -4,6 +4,8 @@
 
 - 직업: Web Frontend Developer
 - 경력: 2010 ~ 현재 (10년차)
+- 근무지: [고위드](https://www.gowid.com)
+  - [작업계정](https://github.com/theson-gowid)
 - 주력 기술
   - ES6, TypeScript
   - React, Redux, Next
