@@ -9,9 +9,8 @@ Visual Programming 을 좋아하는 평범한 웹개발자 입니다.
 가진 기술 경험을 공유하는 것을 좋아하고, 또 배움 받는 것 역시 좋아합니다.
 
 - 직업: Web Frontend Developer
-- 경력: 2010 ~ 2021 현재 (11년차)
-- 근무지: [고위드](https://www.gowid.com)
-  - [작업계정](https://github.com/theson-gowid)
+- 경력: 2010 ~ 2022 현재 (12년차)
+- 근무지: [룩핀](https://www.lookpin.co.kr)
 - 주력 기술
   - ES6, TypeScript
   - React, Redux, Next
@@ -20,8 +19,6 @@ Visual Programming 을 좋아하는 평범한 웹개발자 입니다.
   - cypress (e2e test)
   - storybook (visual test)
 - 보조 기술
-  - Angular, RxJs, ngRx
-  - vue, vuex
   - node.js
   - docker
   - AWS EB/S3
@@ -29,6 +26,8 @@ Visual Programming 을 좋아하는 평범한 웹개발자 입니다.
   - zeplin (디자이너 협업 도구)
   - gulp (task runner)
 - 과거 기술 경험
+  - Angular, RxJs, ngRx
+  - vue, vuex
   - angular.js, knockout.js
   - java, spring, struts, mybatis
   - C#.NET, WebForm, WinForm
